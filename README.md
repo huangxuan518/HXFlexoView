@@ -1,6 +1,13 @@
 # HXFlexoView
-一个非常牛B的View!
-大家经常做项目,应该会遇到一个界面的一行有多个UILaebl 多个UIImageView混的情况,尤其是UILaebl的文字长度是动态的情况,这时候就需要计算各种长度位置,比较麻烦,关键是,这种情况非常常见,所以我就想出来写这么一个多功能View,它基本上满足你日常大部分需求,不管是一行一个UILabel还是2个UILabel,或者是一个UIImageView或者2个,或者UILabel与UIImageView组合,只要你想的到的,HXFlexoView都可以满足你.如果你觉得对你有用,记得给点个赞哦,谢谢!您的支持,是我最大的动力.欢迎关注本人博客: http://blog.libuqing.com/
+![image](https://github.com/huangxuan518/HXFlexoView/blob/master/HXFlexoView/1.png)
+
+上面11种样式想必大家都有遇到过,如果让你来实现,你会用多少代码呢,如果是长度都是固定的可能计算还会简单点,如果是动态的呢,你需要多少代码来实现,大家可以试一下!
+
+因为这些图文混排的样式都非常常见,每个项目都有遇到过,所以我写了这么一个非常牛B的View!
+
+HXFlexoView的牛B之处是只需5句代码即可实现上面的所有样式效果,这里采用的是默认参数,如果你需要更改参数,可能需要多几行代码,但是比起你自己的固有方式来写,还是简便很多的.
+
+如果你觉得对你有用,记得给点个赞哦,谢谢!您的支持,是我最大的动力.欢迎关注本人博客: http://blog.libuqing.com/
 
 # 效果图
 ![image](https://github.com/huangxuan518/HXFlexoView/blob/master/HXFlexoView/xiaoguo.gif)
