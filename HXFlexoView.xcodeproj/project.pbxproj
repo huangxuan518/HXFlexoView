@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3041516A1C5F0A1200663347 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 304151691C5F0A1200663347 /* 1.png */; };
 		306B647E1C5EE92100F01561 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B647D1C5EE92100F01561 /* main.m */; };
 		306B64961C5EE94600F01561 /* HXFlexoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B64951C5EE94600F01561 /* HXFlexoView.m */; };
 		306B649B1C5EE96500F01561 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B64981C5EE96500F01561 /* AppDelegate.m */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		304151691C5F0A1200663347 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 		306B64791C5EE92100F01561 /* HXFlexoView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HXFlexoView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		306B647D1C5EE92100F01561 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		306B64941C5EE94600F01561 /* HXFlexoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXFlexoView.h; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 		306B647B1C5EE92100F01561 /* HXFlexoView */ = {
 			isa = PBXGroup;
 			children = (
+				304151691C5F0A1200663347 /* 1.png */,
 				306B64A51C5EF85800F01561 /* tushi.png */,
 				306B64A31C5EF0EE00F01561 /* xiaoguo.gif */,
 				306B64931C5EE94600F01561 /* 多功能View */,
@@ -156,6 +159,7 @@
 				306B64A21C5EEAB100F01561 /* Images.xcassets in Resources */,
 				306B64A61C5EF85800F01561 /* tushi.png in Resources */,
 				306B64A11C5EEAB100F01561 /* Info.plist in Resources */,
+				3041516A1C5F0A1200663347 /* 1.png in Resources */,
 				306B64A01C5EEAB100F01561 /* Assets.xcassets in Resources */,
 				306B64A41C5EF0EE00F01561 /* xiaoguo.gif in Resources */,
 			);
@@ -301,6 +305,7 @@
 				306B64921C5EE92100F01561 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
