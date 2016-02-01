@@ -9,7 +9,7 @@
 ![image](https://github.com/huangxuan518/HXFlexoView/blob/master/HXFlexoView/tushi.png)
 
 # 用法示例
-    HXFlexoView *flexoView = [[HXFlexoView alloc] initWithFrame:CGRectMake(_icoImageView.frame.origin.x + _icoImageView.frame.size.width + 10, _icoImageView.frame.origin.y, self.view.frame.size.width-20 - _icoImageView.frame.size.width - 10, 17)];
+    HXFlexoView *flexoView = [[HXFlexoView alloc] initWithFrame:CGRectMake(10, 10, 200, 100)];
     flexoView.alignment = 2;//对齐方式 默认左对齐,可不设置
     flexoView.leftLabel.text = @"黄轩";//设置则显示,不设置则不显示
     flexoView.leftImageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"qq_xunzhang"]];//设置则显示,不设置则不显示
