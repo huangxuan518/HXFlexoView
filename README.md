@@ -6,4 +6,4 @@
 ![image](https://github.com/huangxuan518/HXFlexoView/blob/master/HXFlexoView/xiaoguo.gif)
 
 # 参数说明图
-![image](https://github.com/huangxuan518/HXFlexoView/blob/master/HXFlexoView/xiaoguo.gif)
+![image](https://github.com/huangxuan518/HXFlexoView/blob/master/HXFlexoView/tushi.png)
