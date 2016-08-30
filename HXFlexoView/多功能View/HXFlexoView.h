@@ -31,6 +31,8 @@ blue:((float)(hexValue & 0xFF))/255.0 alpha:1]
 @property (nonatomic,assign) float rightLabelAndImageViewSpace;//右边部分UILabel和右边部分UIImageView的空隙
 @property (nonatomic,assign) NSInteger rightPartIcoWithTextAlignment;//右边部分UIImageView相对UILabel对其方式 0.居中对其 1.顶部对其 2.底部对其
 
+- (void)refresh;
+
 @end
 
 #pragma mark - 扩展方法
