@@ -1,4 +1,4 @@
-# HXFlexoView 如果对你有一点点帮助,请给一颗★,你的支持是对我的最大鼓励！
+# HXFlexoView 如果对你有一点点帮助,请给一颗★,你的支持是对我的最大鼓励！推荐工具 iOS打包机器人 https://github.com/huangxuan518/HXPackRobot
 ![image](https://github.com/huangxuan518/HXFlexoView/blob/master/HXFlexoView/1.png)
 
 上面11种样式想必大家都有遇到过,如果让你来实现,你会用多少代码呢,如果是文字的长度都是固定的可能计算还会简单点,如果是动态的呢,你需要多少代码来实现,大家可以试一下!
